@@ -55,6 +55,22 @@ These features cover basic CRUD (Create, Read, Update, Delete) operations essent
 7.	Observe correct error or validation messages and smooth program behavior.
 Following these steps will comprehensively test the functionality, data persistence, error handling, and user interaction of your student management system.
 
+# Screenshots 
+
+<img width="392" height="469" alt="Screenshot 2025-11-23 152302" src="https://github.com/user-attachments/assets/95fa32b9-9466-4048-8c91-35220b20caac" />
+<img width="344" height="414" alt="Screenshot 2025-11-23 152453" src="https://github.com/user-attachments/assets/30cfafe3-f644-4062-ae3e-6277ce3f72e2" />
+<img width="597" height="393" alt="Screenshot 2025-11-23 152824" src="https://github.com/user-attachments/assets/7a4b98b4-21d1-4bbf-80fc-9752c31d65fc" />
+<img width="500" height="327" alt="Screenshot 2025-11-23 152647" src="https://github.com/user-attachments/assets/c63d08e8-1f2f-4cf3-aeee-bc706986c5ce" />
+<img width="347" height="387" alt="Screenshot 2025-11-23 153123" src="https://github.com/user-attachments/assets/01738173-d1e4-4a41-8f59-82ed0b350865" />
+<img width="340" height="333" alt="Screenshot 2025-11-23 153141" src="https://github.com/user-attachments/assets/7a78859c-a5c8-4580-bf62-e9092c32cd8c" />
+<img width="474" height="344" alt="Screenshot 2025-11-23 153224" src="https://github.com/user-attachments/assets/5714a916-4f0e-479d-93a2-962f8271b409" />
+<img width="350" height="374" alt="Screenshot 2025-11-23 153645" src="https://github.com/user-attachments/assets/dda9617d-1401-446e-bf74-1e6ff9363852" />
+<img width="331" height="453" alt="Screenshot 2025-11-23 153709" src="https://github.com/user-attachments/assets/a95fb737-ca95-49b5-85ff-6c5a645399f8" />
+<img width="329" height="311" alt="Screenshot 2025-11-23 153727" src="https://github.com/user-attachments/assets/205723c0-1ded-4efe-adfb-fd5f9ba8376f" />
+<img width="342" height="325" alt="Screenshot 2025-11-23 153737" src="https://github.com/user-attachments/assets/7752e867-dd32-462d-92a5-1fb0973bc113" />
+
+
+
 
 
 
