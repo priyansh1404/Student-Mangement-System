@@ -34,8 +34,8 @@ These features cover basic CRUD (Create, Read, Update, Delete) operations essent
 2.	Run the program on your command line or terminal
 3.	Login using the credentials hardcoded in the code:
 •	Username: vitbhopal
-•	Password: pass123
-4.	After successful login, test each menu option by entering the corresponding number:
+•	Password: vit123
+5.	After successful login, test each menu option by entering the corresponding number:
 •	Add Student: Enter unique roll number, name, age, and marks. Try adding multiple students.
 •	Display Students: Verify all added students are displayed correctly.
 •	Search Student: Search for existing roll numbers and non-existent ones to test both cases.
@@ -46,13 +46,13 @@ These features cover basic CRUD (Create, Read, Update, Delete) operations essent
 •	Marks Analysis: Check average marks, lists of passed (>= 35) and failed (< 35) students.
 •	Save Data: Save current data and confirm no errors.
 •	Exit: Choose exit and confirm program exits after saving data.
-5.	Restart the program and verify that previously saved data loads correctly by choosing options 2 (Display) and 7 (View Attendance).
-6.	Try invalid inputs like:
+6.	Restart the program and verify that previously saved data loads correctly by choosing options 2 (Display) and 7 (View Attendance).
+7.	Try invalid inputs like:
 •	Wrong login credentials.
 •	Non-numeric or invalid marks.
 •	Invalid choice outside 1-10.
 •	Entering attendance status other than P or A.
-7.	Observe correct error or validation messages and smooth program behavior.
+8.	Observe correct error or validation messages and smooth program behavior.
 Following these steps will comprehensively test the functionality, data persistence, error handling, and user interaction of your student management system.
 
 # Screenshots 
