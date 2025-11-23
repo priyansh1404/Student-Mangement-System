@@ -1,0 +1,1 @@
+{"students": {"12345": {"Name": "Priyansh Vivek", "Age": "18", "Marks": 85.0}, "13245": {"Name": "Lakshya Sinha", "Age": "18", "Marks": 70.0}, "18763": {"Name": "Sanushkar Rao", "Age": "18", "Marks": 75.0}}, "attendance": {"12345": ["P", "P", "P", "P"], "13245": ["P", "P", "P", "A"], "18763": ["P", "P", "A", "A"]}}
